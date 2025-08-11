@@ -1,0 +1,21 @@
+header{
+    background-color: azure;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+section{
+    background-color: antiquewhite;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+footer{
+    background-color: blue;
+    text-align: center;
+    padding: 10px;
+}
